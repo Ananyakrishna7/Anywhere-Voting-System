@@ -1,0 +1,24 @@
+
+
+  .title{
+  padding-top: 40px;
+  text-align: center;
+  height: 300px;
+  width:500px;
+  margin-top: 10px;
+  margin-left: 400px;
+  font-family: "Lobster";
+
+}
+
+.main{
+  position:absolute; top:280px; left:0;
+  display: block;
+
+
+  margin-left:300px;
+  margin-right: auto;
+
+  width: 50%;
+
+}
